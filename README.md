@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, i'm Bruno Henrique!!  👋
+### Come here, let me know who you are! Let's be friends
+
 
 <!--
 **brunohenriquecruz/brunohenriquecruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
